@@ -11,9 +11,9 @@ The objective of this project is to implement, evaluate, and compare five superv
 - **Target Variable**: `target` (Binary Classification: `0` = Malignant, `1` = Benign)
 - **Feature Attributes**: Mean, standard error, and worst values of radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension.
 
-## c. Repository Links
+## c. Repository & Application Links
 - **GitHub Repository**: [https://github.com/GaneshDevPlay/ml-assignment-2](https://github.com/GaneshDevPlay/ml-assignment-2)
-
+- **Live Streamlit App**: [https://ml-assignment-2-6y2je4vwbgrt4r4n6pksve.streamlit.app/](https://ml-assignment-2-6y2je4vwbgrt4r4n6pksve.streamlit.app/)
 
 ## d. Models Used & Evaluation Metrics Comparison Table
 
